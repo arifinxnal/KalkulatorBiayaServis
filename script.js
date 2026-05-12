@@ -1,6 +1,6 @@
 // 1. GANTI URL INI DENGAN URL APPS SCRIPT ANDA
 const API_URL = "https://script.google.com/macros/s/AKfycbwQydOMxLzzrHFSQR3_ScnHuTLIS_IQQwrZmkPP1qBahbBeGnHGRESANYsec0jTtxGq/exec";
-const WA_NUMBER = "085702256719"; // Nomor WA bengkel (awali dengan 62)
+const WA_NUMBER = "6285702256719"; // Nomor WA bengkel (awali dengan 62)
 
 let serviceData = [];
 
